@@ -1,4 +1,5 @@
 import React from 'react';
+import '../Track/Track'
 
 function Track(){
     return (<div class="TrackList">

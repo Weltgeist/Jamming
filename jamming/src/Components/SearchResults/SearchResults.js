@@ -1,4 +1,5 @@
 import React from 'react';
+import '../TrackList/TrackList'
 
 function SearchResults(){
     return (<div className="SearchResults">
