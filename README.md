@@ -6,6 +6,10 @@ A Spotifiy Web Api Clone.
 ### The purpose of your project 
 
 ### Technologies used
+React
+Javascript
+Html
+Css
 
 ### Challenges
 
