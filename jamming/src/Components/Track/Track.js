@@ -1,6 +1,15 @@
 import React from 'react';
 
 class Track extends React.Component{
+    renderAction(){
+        return(<>
+            <button className = "Track-action" >-</button>
+            <button className = "Track-action" >+</button>
+        </>
+        
+        )
+    }
+
     render(){
     return (<div className="Track">
                 <div className="Track-information">
