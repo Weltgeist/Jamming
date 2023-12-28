@@ -6,7 +6,6 @@ class Track extends React.Component{
             <button className = "Track-action" >-</button>
             <button className = "Track-action" >+</button>
         </>
-        
         )
     }
 
