@@ -17,6 +17,8 @@ class TrackList extends React.Component{
         <Track/>
         <Track/>
         <Track/>
+        <Track/>
+        <Track/>
         </div>);
     }
 }
